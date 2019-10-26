@@ -1,0 +1,114 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+    color: #888888;
+    margin: 0px;
+}
+.header{
+    height:90px;
+    background-color:#fccad5;
+    font-style:#b4ada9;
+    right: 0;
+    left: 0;
+    position: fixed;
+}
+.main{
+    background-color:#e6f0f0;
+    display: flex;
+    justify-content: flex-start;
+}
+img{
+    height: 640px;
+    width: 480px;
+}
+.footer{
+    background-color:#fccad5;
+    height: 40px;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+.footer-logo{
+    /* margin: 0px; */
+    right: 0px;
+}
+.header-logo{
+    float:left;
+    font-size:36px;
+    padding:0px 40px 90px 40px;
+    height: 90px;
+    font-family: 'Orbitron', sans-serif;
+}
+.fuchidori{
+    font-weight: bold;
+    color:rgba(0,0,0,.0);
+    -webkit-text-stroke: 1px #ffffff;
+  }
+.dressup{
+    background-color: #dcc8dc;
+    width: 480px;
+    height: 640px;
+    /* left: 0px; */
+    position: relative;
+    margin: 0px;
+    top: 90px;
+    position: fixed;
+}
+base{
+    position: absolute;
+}
+.hair{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.mouth{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.eye{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.eb{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.cheek{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.hair_b{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.base{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    left: 0;
+}
+.parts-list{
+    height: 800px;
+    width: 1000px;
+    margin: 90px 0px 0px 480px;
+    background-color: #f19ca7;
+  }
+  
