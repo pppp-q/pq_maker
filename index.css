@@ -12,7 +12,7 @@ body{
     position: fixed;
 }
 .main{
-    background-color:#e6f0f0;
+    background-color:#dcc8dc;
     display: flex;
     justify-content: flex-start;
 }
@@ -111,4 +111,3 @@ base{
     margin: 90px 0px 0px 480px;
     background-color: #f19ca7;
   }
-  
